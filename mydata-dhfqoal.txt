@@ -1,6 +1,6 @@
-jung kang hun
-2021041032
-software
-1
-opensource
-
+name : jung kang hun
+student number : 2021041032
+department : software
+school year : 1
+course : opensource
+today's good phrase : time is gold
