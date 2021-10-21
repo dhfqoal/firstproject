@@ -1,15 +1,6 @@
-<<<<<<< HEAD
-name : jung kang hun
-student number : 2021041032
-department : software
-school year : 1
-course : opensource
-today's good phrase : time is gold
-=======
-jung kang hun
-2021041032
-software
-1
-opensource
-
->>>>>>> 2a428abe4798b61c009a5026348e89c1fc99e595
+이름: 정강훈
+학번: 2021041032
+학과: 소프트웨어학과
+학년: 1학년
+수강과목: 오픈소스 소프트웨어 이해와 실습
+오늘의 좋은 문구: 시간은 금이다.
